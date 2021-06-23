@@ -44,3 +44,13 @@ body {
     line-height: 140%;
     color: rgba(255, 255, 255, 0.8);
 }
+.button {
+   padding: 15px 30px; 
+   border: none;
+   border-radius: 5px;
+   text-decoration: none;
+}
+.button-icon .button-text {
+    display: inline-block;
+    vertical-align: middle;
+}
